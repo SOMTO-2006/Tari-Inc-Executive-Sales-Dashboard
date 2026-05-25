@@ -1,4 +1,5 @@
 Project Overview: Tari Inc. Executive Sales Dashboard
+![Main Executive Dashboard](https://github.com/SOMTO-2006/Tari-Inc-Executive-Sales-Dashboard/blob/main/Tari%20DAX%20post.png?raw=true)
 The Problem: Friction in Executive Reporting
 Tari Inc. possessed a rich foundational dataset of historical sales records (2018–2020), but their leadership team was experiencing significant friction when trying to extract actionable insights. The existing reporting structure was static, visually cluttered, and prone to breaking when cross-filtering across different regions and timeframes. Executives were spending too much time digging for top-line metrics and waiting for analysts to manually calculate Sales Rep performance.
 
